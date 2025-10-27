@@ -62,9 +62,9 @@ const Features = () => (
     <h2 className="text-4xl font-bold text-blue-900 mb-16 font-poppins tracking-tight">Our Core Products</h2>
     <div className="max-w-6xl mx-auto grid md:grid-cols-2 lg:grid-cols-4 gap-12">
       {[
-        { name: "LeenTrack", desc: "POS & Inventory for retail, online & offline.", link: "https://leentrack.leenco.tech" },
+        { name: "LeenTrack", desc: "POS & Inventory for retail, online & offline.", link: "https://track.leenco.tech" },
         { name: "AdStream AI", desc: "AI-powered ad campaign builder.", link: "https://adstream.leenco.tech" },
-        { name: "Xamani AI", desc: "Hausa + English AI prompt platform.", link: "https://xamani.leenco.tech" },
+        { name: "Xamani AI", desc: "Hausa + English AI prompt platform.", link: "https://xamani.netlify.app" },
         { name: "TradeLinx", desc: "Cross-border B2B for Africa.", link: "#" },
       ].map((tool, i) => (
         <a key={i} href={tool.link} target="_blank" rel="noopener noreferrer" className="group bg-white p-10 rounded-3xl shadow-2xl border-t-4 border-blue-600 hover:scale-105 hover:border-yellow-400 transition-transform duration-300 flex flex-col items-center hover:shadow-yellow-200">
