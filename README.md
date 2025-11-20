@@ -1,6 +1,6 @@
 # Leen-Co Tech Ltd. Company Website
 
-This is a modern, professional, and responsive company website for Leen-Co Tech Ltd., built with React, Vite, and Tailwind CSS.
+This is a modern, professional, and responsive company website for Leen-Co Tech Ltd.
 
 ## Features
 - Homepage with hero section, mission, and CTAs
