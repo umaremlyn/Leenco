@@ -136,6 +136,10 @@
     </div>
 
     <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4 md:gap-6 items-center justify-center">
+      <!-- Leen-Co Tech Logo (Highlighted) -->
+      <div class="flex items-center justify-center h-24 bg-royal-blue/10 rounded-lg shadow-sm border-2 border-royal-blue hover:shadow-md transition col-span-2 sm:col-span-1">
+        <img src="assets/img/clients/leenco%20logo.png" alt="Leen-Co Tech" class="max-w-full max-h-full p-3" />
+      </div>
       <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
         <img src="assets/img/clients/tradelixafrica.jpeg" alt="TradeLix Africa" class="max-w-full max-h-full p-3" />
       </div>

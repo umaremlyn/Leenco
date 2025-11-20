@@ -12,6 +12,9 @@
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="assets/img/clients/leenco-favicon.png" />
+
   <!-- TailwindCSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
@@ -50,9 +53,9 @@
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex justify-between items-center h-16">
       <div class="flex-shrink-0 flex items-center">
-        <a href="index.php" class="flex items-center gap-3">
-          <div class="w-10 h-10 rounded-md bg-royal-blue flex items-center justify-center text-white font-bold">L</div>
-          <span class="hidden sm:inline-block font-semibold text-lg">Leen-Co Tech</span>
+        <a href="index.php" class="flex items-center gap-2">
+          <img src="assets/img/clients/leenco-favicon.png" alt="Leen-Co Tech" class="w-10 h-10" />
+          <span class="hidden sm:inline-block font-semibold text-lg text-royal-blue">Leen-Co Tech</span>
         </a>
       </div>
 
