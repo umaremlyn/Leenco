@@ -137,31 +137,31 @@
 
     <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4 md:gap-6 items-center justify-center">
       <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
-        <img src="assets/img/clients/tradelix-africa.svg" alt="TradeLix Africa" class="max-w-full max-h-full p-3" />
+        <img src="assets/img/clients/tradelixafrica.jpeg" alt="TradeLix Africa" class="max-w-full max-h-full p-3" />
       </div>
       <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
-        <img src="assets/img/clients/habibaty-hair-foods.svg" alt="Habibaty Hair Foods" class="max-w-full max-h-full p-3" />
+        <img src="assets/img/clients/Habeebaty.svg" alt="Habibaty Hair Foods" class="max-w-full max-h-full p-3" />
       </div>
       <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
         <img src="assets/img/clients/sendex-courier-services.svg" alt="SendEx Courier Services" class="max-w-full max-h-full p-3" />
       </div>
       <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
-        <img src="assets/img/clients/h-square-global-ltd.svg" alt="H-Square Global Ltd" class="max-w-full max-h-full p-3" />
+        <img src="assets/img/clients/HSquare Logo.PNG" alt="H-Square Global Ltd" class="max-w-full max-h-full p-3" />
       </div>
       <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
-        <img src="assets/img/clients/windex-logistics.svg" alt="WindEx Logistics" class="max-w-full max-h-full p-3" />
+        <img src="assets/img/clients/windex.jpg" alt="WindEx Logistics" class="max-w-full max-h-full p-3" />
       </div>
       <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
-        <img src="assets/img/clients/md-dubai-global-cargo-ltd.svg" alt="MD-Dubai Global CarGo Ltd" class="max-w-full max-h-full p-3" />
+        <img src="assets/img/clients/MD-Dubai.jpg" alt="MD-Dubai Global CarGo Ltd" class="max-w-full max-h-full p-3" />
       </div>
       <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
-        <img src="assets/img/clients/esahub-africa.svg" alt="ESAHub Africa" class="max-w-full max-h-full p-3" />
+        <img src="assets/img/clients/ESAHUB Logo.jpg" alt="ESAHub Africa" class="max-w-full max-h-full p-3" />
       </div>
       <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
-        <img src="assets/img/clients/leepha-quality.svg" alt="Leepha Quality" class="max-w-full max-h-full p-3" />
+        <img src="assets/img/clients/leepha-quality.png" alt="Leepha Quality" class="max-w-full max-h-full p-3" />
       </div>
       <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
-        <img src="assets/img/clients/highend-clothing.svg" alt="HighEnd Clothing" class="max-w-full max-h-full p-3" />
+        <img src="assets/img/clients/highend-logo.jpg" alt="HighEnd Clothing" class="max-w-full max-h-full p-3" />
       </div>
       <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
         <img src="assets/img/clients/pibit-ventures.svg" alt="Pibit Ventures" class="max-w-full max-h-full p-3" />
