@@ -168,12 +168,19 @@
       </div>
     </div>
 
-    <div class="mt-10 text-center">
-    <p class="text-3xl font-bold text-royal-blue">And our trusted partners:</p>
-      <div class="flex flex-wrap gap-3 justify-center text-sm">
-        <span class="px-4 py-2 bg-white rounded-full shadow-sm text-royal-blue font-semibold">Mufix Global Ltd</span>
-        <span class="px-4 py-2 bg-white rounded-full shadow-sm text-royal-blue font-semibold">SZ DIGITAL SOLUTIONS</span>
-        <span class="px-4 py-2 bg-white rounded-full shadow-sm text-royal-blue font-semibold">NextFlow Innovation</span>
+    <!-- Partners Section -->
+    <div class="mt-12">
+      <h3 class="text-center text-2xl font-bold text-royal-blue mb-6">Our Trusted Partners</h3>
+      <div class="grid grid-cols-2 sm:grid-cols-3 gap-4 md:gap-6 max-w-2xl mx-auto">
+        <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
+          <img src="assets/img/mufix logo.PNG" alt="Mufix Global Ltd" class="max-w-full max-h-full p-3" />
+        </div>
+        <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
+          <img src="assets/img/clients/sz-digital-solutions.svg" alt="SZ DIGITAL SOLUTIONS" class="max-w-full max-h-full p-3" />
+        </div>
+        <div class="flex items-center justify-center h-24 bg-white rounded-lg shadow-sm hover:shadow-md transition">
+          <img src="assets/img/nextflow logo.jpeg" alt="NextFlow Innovation" class="max-w-full max-h-full p-3" />
+        </div>
       </div>
     </div>
   </div>
